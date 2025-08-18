@@ -1,4 +1,4 @@
-# Challenge-2---Alura# Análisis de Evasión de Clientes (Churn Analysis)
+# Análisis de Evasión de Clientes (Churn Analysis)
 
 Este proyecto realiza un análisis exploratorio de datos (EDA) para identificar patrones y factores que influyen en la evasión de clientes (*Churn*).
 El objetivo es comprender qué variables están más relacionadas con la cancelación del servicio, con el fin de orientar estrategias para su reducción.
